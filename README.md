@@ -1,2 +1,0 @@
-# GoldenStyle
-Golden Style
